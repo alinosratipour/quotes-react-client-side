@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+ul li{
+  list-style: none;
+}
+
+.container{
+  background-color: rgb(138, 131, 131);
+  width: 40%;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 10px;
+
+}
+
+.wrapper{
+  text-align: center;
+}
+
+.btn-holder{
+  padding-bottom: 20px;
+}
+.btn-holder button{
+  padding: 20px;
+  width: 15%;
+  cursor: pointer;
+  background-color: lightseagreen;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  transition: 1s ease-out;
+}
+
+button:hover{
+  background-color: rgb(76, 158, 154);
+}
+
+p{
+  text-align: left;
+  font-weight: bold;
+}
